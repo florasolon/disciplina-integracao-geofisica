@@ -7,10 +7,6 @@ Disciplina oferecida no Programa de Pós Graduação em Dinâmica dos Oceanos e 
 
 **Aviso Legal:** O material disponibilizado neste repositório está em constante desenvolvimento e a UFF não tem nenhuma responsabilidade sobre o seu conteúdo.
 
-p align="center">
-    <img src="mag.png" width = "500">
-</p>
-
 
 ## Tópicos
 
