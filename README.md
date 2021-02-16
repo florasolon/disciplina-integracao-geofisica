@@ -1,5 +1,4 @@
 # Integração de Métodos Geofísicos
-Material apresentado na disciplina de Integração de métodos geofísicos na pos graduação da UFF
 
 Disciplina oferecida no Programa de Pós Graduação em Dinâmica dos Oceanos e da Terra da Universidade Federal Fluminense
 
@@ -13,6 +12,7 @@ Disciplina oferecida no Programa de Pós Graduação em Dinâmica dos Oceanos e 
 * Apresentação da disciplina e objetivos
 * Métodos geofísicos
   * Revisão de métodos geofísicos
+    * Métodos eletromagnéticos
   * Anomalias geofísicas e suas fontes
   Integração de dados geofísicos
 * Caracterização geofísica de diferentes ambientes geológicos
