@@ -10,7 +10,7 @@ Disciplina oferecida no Programa de Pós Graduação em Dinâmica dos Oceanos e 
 ## Tópicos
 
 * Apresentação da disciplina e objetivos
-  *
+  
 * Métodos geofísicos
   * Revisão de métodos geofísicos
     * Métodos eletromagnéticos (MT)
