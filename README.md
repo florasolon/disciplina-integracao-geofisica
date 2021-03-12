@@ -12,10 +12,16 @@ Disciplina oferecida no Programa de Pós Graduação em Dinâmica dos Oceanos e 
 * Apresentação da disciplina e objetivos
 * Métodos geofísicos
   * Revisão de métodos geofísicos
-    * Métodos eletromagnéticos
-    * Métodos potenciais
+    * Métodos eletromagnéticos (MT)
+      * Conceitos básicos
+      * Equações de Maxwell
+      * Propagação das ondas
+      * Modelagem simples
+      * Análise dos dados
+    * Métodos potenciais (Gravimetria e magnetometria)
+    * 
   
-  * Integração de dados geofísicos
+* Integração de dados geofísicos
 * Caracterização geofísica de diferentes ambientes geológicos
   * Tipos de rochas associadas a cada ambiente
   * Propriedades físicas das rochas
