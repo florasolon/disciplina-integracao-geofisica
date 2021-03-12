@@ -1,4 +1,4 @@
-# Integração de Métodos Geofísicos
+# Tópicos especiais - Integração de Métodos Geofísicos
 
 Disciplina oferecida no Programa de Pós Graduação em Dinâmica dos Oceanos e da Terra da Universidade Federal Fluminense
 
