@@ -10,29 +10,41 @@ Disciplina oferecida no Programa de Pós Graduação em Dinâmica dos Oceanos e 
 ## Tópicos
 
 * Apresentação da disciplina e objetivos
+  *
 * Métodos geofísicos
   * Revisão de métodos geofísicos
     * Métodos eletromagnéticos (MT)
       * Conceitos básicos
-      * Equações de Maxwell
-      * Propagação das ondas
-      * Modelagem simples
-      * Análise dos dados
+      * Aspectos teóricos
+        * Equaçoes de Maxwell
+        * Propagação de ondas em meios geológicos
+        * Tensor de impedância 
+      * Problema direto
+        * Análise dos dados
+      * Problema inverso
+      
     * Métodos potenciais (Gravimetria e magnetometria)
-    * 
+      * Conceitos básicos
+      * Aspectos teóricos
+        * O campo de gravidade e o campo geomagnético
+        * Anomalias do campo de gravidade e do campo geomanético
+      * Problema direto
+        * Análise dos dados
+      * Problema inverso
   
-* Integração de dados geofísicos
 * Caracterização geofísica de diferentes ambientes geológicos
   * Tipos de rochas associadas a cada ambiente
   * Propriedades físicas das rochas
   * Caracterização dos ambientes geológicos em termos de propriedades físicas
   * Modelos geofísicos conceituais (modelos interpretativos)
+  
+* Integração de dados geofísicos
+  * Interpretação individual
+  * Interpretação conjunta
+  * Estratégias de inversão conjunta
+
 * Estudos de casos
-  * Identificação do ambiente geológico
-  * Definição do modelo geofísico conceitual (modelo interpretativo)
-  * Interpretação individual dos dados geofísicos 
-  * Interpretação conjunta dos dados geofísicos
-  * Interpretação geológica da(s) distribuição(ões) de propriedade física estimada(s) 
+  
   
 
 ## Bibliografia
